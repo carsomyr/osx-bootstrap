@@ -1,0 +1,5 @@
+---
+by_mac_address:
+  "00:00:00:00:00:00":
+    name: Your Machine Name
+    local_hostname: some_hostname
